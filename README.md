@@ -6,3 +6,6 @@ Link: https://www.figma.com/file/MxFwoyvsMS31EKanZESG2m/Studies-Tracker?type=des
 
 #Wireframe Média fidelidade
 Link : https://www.figma.com/community/file/1252966366708891097
+
+#Design System:
+Link: https://www.figma.com/community/file/1255503057463227537
